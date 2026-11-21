@@ -1,0 +1,37 @@
+! Title: FadeMind Spam
+! Description: Dominios de spam y sitios basura.
+! Fuente original: https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts
+! Reglas: 31
+! Copia convertida al formato de ADSBlockVM: https://github.com/VicCodeM/ADSBlockVM-Listas (créditos en CREDITOS.md)
+!
+||100.1qingdao.com^
+||7minuteworkout.com^
+||addshoppers.com^
+||arklighting.co^
+||brandedleadgeneration.com^
+||clicktshirtprinting.co.uk^
+||divisioncore.com^
+||fitnesshealthreporter.com^
+||freeforums.org^
+||gtradersoft.com^
+||heartrevitalized.com^
+||janeaustenjoy.com^
+||medtecchina.com^
+||motoren.ru^
+||mydreamdegree.com^
+||novastarled.com^
+||onlineloan-personal.net^
+||otherinbox.com^
+||pcbutts1-therealtruth.blogspot.com^
+||playlott.com^
+||profitsitesbiz.com^
+||securesignupoffers.org^
+||stsoftware.biz^
+||tekindustri.upnjatim.ac.id^
+||thedatingconference.com^
+||tinaborg.com^
+||unionleisurewear.com^
+||vntanktransport.com^
+||vydoxtrial.com^
+||www.oz-offers.com^
+||www.tkdami.net^
